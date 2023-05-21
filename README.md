@@ -1,16 +1,19 @@
-### Hi there 👋
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibo-Tian&layout=compact)](https://github.com/Christmas/github-readme-stats)
 
-<!--
-**Sibo-Tian/Sibo-Tian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sibo-Tian)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display:flex;">
+  <img src="https://raw.githubusercontent.com/Sibo-Tian/ivue_wallpaper/main/meta_destop/2077_2.jpg" alt="profile" width="400" />
+  <img src="https://raw.githubusercontent.com/Sibo-Tian/ivue_wallpaper/main/meta_destop/2077_1.jpg" alt="profile" width="400.0" />
+</div>
+
+
+<div style="display:flex; flex-direction:row">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sibo-Tian" width="800">
+</div>
+ 
+
+
